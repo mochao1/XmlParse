@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+  <student>
+    <name sex="man">小明</name>
+    <nickName>明明</nickName>
+  </student>
