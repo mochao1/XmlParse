@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         //tv.setText(stu.toString());
         Stu stu = new Stu();
         stu.setNickName("小花");
-        stu.setName(stu.new Name("哈哈", "女"));
+        stu.setName(stu.new Name("哈哈11", "女"));
         XStream xstream = new XStream();
         String xml = xstream.toXML(stu);
         tv.setText(xml);
